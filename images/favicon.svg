@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background circle -->
+  <rect width="64" height="64" rx="12" ry="12" fill="#0056b3"/>
+  <!-- PL text -->
+  <text x="50%" y="54%" 
+    dominant-baseline="middle" 
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, 'Segoe UI', Arial, sans-serif"
+    font-weight="800"
+    font-size="28"
+    fill="#ffffff"
+    letter-spacing="-1">PL</text>
+</svg>
